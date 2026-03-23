@@ -1,0 +1,28 @@
+{
+  "image_path": "C:/workspace/msx/Load-MSX_14_0027 (1).jpg.jpeg",
+  "params": {
+    "x0": 879.0,
+    "y0": 1342.0,
+    "cell_w": 21.0,
+    "cell_h": 36.0,
+    "pitch_x": 21.8,
+    "pitch_y": 36.0,
+    "drift_x": 0.0,
+    "drift_y": 0.0,
+    "cols": 33,
+    "rows": 8,
+    "threshold": 160,
+    "zoom": 1.236256544502618
+  },
+  "recognized": {
+    "0,13": ",",
+    "0,21": "5",
+    "1,13": "4",
+    "3,8": ",",
+    "5,5": ","
+  },
+  "selected_cell": [
+    6,
+    5
+  ]
+}
